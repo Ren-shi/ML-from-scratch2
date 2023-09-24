@@ -1,7 +1,7 @@
 body{
 	font-family:Ariel;
 	background-color:skyblue;
-	overscroll-behaviour:none;
+	overscroll-behavior:none;
 }
 #content{
 	Position:absolute;
@@ -16,7 +16,7 @@ button{
 	border:none;
 	padding:2px 10px 2px 10px;
 	height:22px;
-	boarder-radius:5px;
+	border-radius:5px;
 	background-color:navy;
 	color:white;
 }
@@ -27,4 +27,29 @@ button:disabled,
 button:disabled:hover{
 	background-color:gray;
 	cursor:default;
+}
+
+.row{
+	display:flex;
+	align-items: center;
+}
+
+.thumb{
+	width:100%;
+}
+.rowLabel{
+	flex: 2 1 0;
+	width:15%;
+	text-overflow: ellipsis;
+	overflow:hidden;
+	white-space: nowrap;
+}
+
+.sampleContainer{
+	flex:1 1 0;
+	background-color: white;
+	text-align: center;
+	border-radius: 10%;
+	margin:1px;
+	overflow: hidden;
 }
