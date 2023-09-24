@@ -1,11 +1,12 @@
-const constant={};
+const constants={};
 
 constants.DATA_DIR="../data";
 constants.RAW_DIR=constants.DATA_DIR+"/raw";
-constants.DATASEY_DIR=constants.DATA+"/dataset";
-constants.JSON_DIR=constants.DATA_DIR+"/json";
-constants.IMG_DIR=constants.DATA_DIR+"/img";
-constants.SAMPLES_DIR=constants.DATA_DIR+"/samples.json";
+constants.DATASET_DIR=constants.DATA_DIR+"/dataset";
+constants.JSON_DIR=constants.DATASET_DIR+"/json";
+constants.IMG_DIR=constants.DATASET_DIR+"/img";
+constants.SAMPLES=constants.DATA_DIR+"/samples.json";
+
 constants.JS_OBJECTS="../common/js_objects";
 constants.SAMPLES_JS=constants.JS_OBJECTS+"/samples.js";
 
