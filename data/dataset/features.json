@@ -1,1 +1,8520 @@
-{"featureNames":["Path Count","Point Count"],"samples":[{"point":[5,883],"label":"car"},{"point":[4,596],"label":"fish"},{"point":[8,571],"label":"house"},{"point":[3,575],"label":"tree"},{"point":[5,586],"label":"bicycle"},{"point":[6,1214],"label":"guitar"},{"point":[5,527],"label":"pencil"},{"point":[3,588],"label":"clock"},{"point":[7,715],"label":"car"},{"point":[3,361],"label":"fish"},{"point":[7,455],"label":"house"},{"point":[3,520],"label":"tree"},{"point":[6,500],"label":"bicycle"},{"point":[6,1034],"label":"guitar"},{"point":[5,357],"label":"pencil"},{"point":[4,371],"label":"clock"},{"point":[7,658],"label":"car"},{"point":[11,387],"label":"fish"},{"point":[12,538],"label":"house"},{"point":[13,332],"label":"tree"},{"point":[9,407],"label":"bicycle"},{"point":[17,587],"label":"guitar"},{"point":[10,396],"label":"pencil"},{"point":[5,184],"label":"clock"},{"point":[19,799],"label":"car"},{"point":[24,634],"label":"fish"},{"point":[17,612],"label":"house"},{"point":[5,368],"label":"tree"},{"point":[27,955],"label":"bicycle"},{"point":[7,669],"label":"guitar"},{"point":[6,245],"label":"pencil"},{"point":[24,784],"label":"clock"},{"point":[1,255],"label":"car"},{"point":[1,148],"label":"fish"},{"point":[7,521],"label":"house"},{"point":[4,345],"label":"tree"},{"point":[25,548],"label":"bicycle"},{"point":[16,874],"label":"guitar"},{"point":[7,353],"label":"pencil"},{"point":[41,735],"label":"clock"},{"point":[18,748],"label":"car"},{"point":[16,622],"label":"fish"},{"point":[23,864],"label":"house"},{"point":[6,910],"label":"tree"},{"point":[22,847],"label":"bicycle"},{"point":[21,1659],"label":"guitar"},{"point":[16,467],"label":"pencil"},{"point":[69,1588],"label":"clock"},{"point":[7,1869],"label":"car"},{"point":[4,1013],"label":"fish"},{"point":[7,1227],"label":"house"},{"point":[5,1738],"label":"tree"},{"point":[8,1248],"label":"bicycle"},{"point":[14,2010],"label":"guitar"},{"point":[9,839],"label":"pencil"},{"point":[5,710],"label":"clock"},{"point":[7,726],"label":"car"},{"point":[3,324],"label":"fish"},{"point":[10,449],"label":"house"},{"point":[6,235],"label":"tree"},{"point":[11,341],"label":"bicycle"},{"point":[9,482],"label":"guitar"},{"point":[6,314],"label":"pencil"},{"point":[19,298],"label":"clock"},{"point":[8,596],"label":"car"},{"point":[8,615],"label":"fish"},{"point":[5,334],"label":"house"},{"point":[4,157],"label":"tree"},{"point":[6,249],"label":"bicycle"},{"point":[8,668],"label":"guitar"},{"point":[4,449],"label":"pencil"},{"point":[10,212],"label":"clock"},{"point":[4,516],"label":"car"},{"point":[3,142],"label":"fish"},{"point":[4,259],"label":"house"},{"point":[3,208],"label":"tree"},{"point":[13,424],"label":"bicycle"},{"point":[1,72],"label":"guitar"},{"point":[1,62],"label":"pencil"},{"point":[19,432],"label":"clock"},{"point":[5,680],"label":"car"},{"point":[19,447],"label":"fish"},{"point":[14,219],"label":"house"},{"point":[13,286],"label":"tree"},{"point":[23,432],"label":"bicycle"},{"point":[17,348],"label":"guitar"},{"point":[7,161],"label":"pencil"},{"point":[22,410],"label":"clock"},{"point":[15,1355],"label":"car"},{"point":[5,129],"label":"fish"},{"point":[12,378],"label":"house"},{"point":[4,306],"label":"tree"},{"point":[10,613],"label":"bicycle"},{"point":[16,861],"label":"guitar"},{"point":[5,213],"label":"pencil"},{"point":[30,1794],"label":"clock"},{"point":[17,885],"label":"car"},{"point":[7,430],"label":"fish"},{"point":[6,415],"label":"house"},{"point":[11,1002],"label":"tree"},{"point":[6,369],"label":"bicycle"},{"point":[12,611],"label":"guitar"},{"point":[9,284],"label":"pencil"},{"point":[7,319],"label":"clock"},{"point":[8,1352],"label":"car"},{"point":[21,3244],"label":"fish"},{"point":[15,1356],"label":"house"},{"point":[9,1353],"label":"tree"},{"point":[14,1726],"label":"bicycle"},{"point":[7,1285],"label":"guitar"},{"point":[6,499],"label":"pencil"},{"point":[23,1322],"label":"clock"},{"point":[6,520],"label":"car"},{"point":[2,238],"label":"fish"},{"point":[4,306],"label":"house"},{"point":[2,417],"label":"tree"},{"point":[10,409],"label":"bicycle"},{"point":[14,813],"label":"guitar"},{"point":[4,293],"label":"pencil"},{"point":[9,390],"label":"clock"},{"point":[8,425],"label":"car"},{"point":[5,307],"label":"fish"},{"point":[19,1095],"label":"house"},{"point":[10,647],"label":"tree"},{"point":[26,1215],"label":"bicycle"},{"point":[19,776],"label":"guitar"},{"point":[4,279],"label":"pencil"},{"point":[9,274],"label":"clock"},{"point":[26,1053],"label":"car"},{"point":[13,830],"label":"fish"},{"point":[79,1420],"label":"house"},{"point":[25,1592],"label":"tree"},{"point":[37,1844],"label":"bicycle"},{"point":[24,1181],"label":"guitar"},{"point":[18,413],"label":"pencil"},{"point":[21,463],"label":"clock"},{"point":[8,759],"label":"car"},{"point":[10,260],"label":"fish"},{"point":[16,677],"label":"house"},{"point":[3,189],"label":"tree"},{"point":[24,863],"label":"bicycle"},{"point":[13,955],"label":"guitar"},{"point":[6,198],"label":"pencil"},{"point":[19,595],"label":"clock"},{"point":[6,469],"label":"car"},{"point":[13,477],"label":"fish"},{"point":[13,481],"label":"house"},{"point":[9,341],"label":"tree"},{"point":[13,514],"label":"bicycle"},{"point":[9,425],"label":"guitar"},{"point":[3,250],"label":"pencil"},{"point":[7,195],"label":"clock"},{"point":[11,1523],"label":"car"},{"point":[8,290],"label":"fish"},{"point":[10,449],"label":"house"},{"point":[33,954],"label":"tree"},{"point":[25,989],"label":"bicycle"},{"point":[12,1198],"label":"guitar"},{"point":[13,722],"label":"pencil"},{"point":[23,1012],"label":"clock"},{"point":[12,616],"label":"car"},{"point":[19,666],"label":"fish"},{"point":[18,542],"label":"house"},{"point":[22,495],"label":"tree"},{"point":[37,899],"label":"bicycle"},{"point":[19,911],"label":"guitar"},{"point":[16,401],"label":"pencil"},{"point":[22,633],"label":"clock"},{"point":[25,2078],"label":"car"},{"point":[16,1262],"label":"fish"},{"point":[65,3048],"label":"house"},{"point":[55,2242],"label":"tree"},{"point":[44,1953],"label":"bicycle"},{"point":[37,1737],"label":"guitar"},{"point":[13,668],"label":"pencil"},{"point":[23,1247],"label":"clock"},{"point":[7,463],"label":"car"},{"point":[3,113],"label":"fish"},{"point":[16,378],"label":"house"},{"point":[3,131],"label":"tree"},{"point":[16,227],"label":"bicycle"},{"point":[8,585],"label":"guitar"},{"point":[5,307],"label":"pencil"},{"point":[18,210],"label":"clock"},{"point":[5,818],"label":"car"},{"point":[2,278],"label":"fish"},{"point":[1,199],"label":"house"},{"point":[2,119],"label":"tree"},{"point":[9,243],"label":"bicycle"},{"point":[17,1069],"label":"guitar"},{"point":[7,477],"label":"pencil"},{"point":[23,640],"label":"clock"},{"point":[14,1122],"label":"car"},{"point":[8,470],"label":"fish"},{"point":[7,358],"label":"house"},{"point":[5,425],"label":"tree"},{"point":[20,557],"label":"bicycle"},{"point":[11,1037],"label":"guitar"},{"point":[7,405],"label":"pencil"},{"point":[15,267],"label":"clock"},{"point":[11,1096],"label":"car"},{"point":[4,458],"label":"fish"},{"point":[11,691],"label":"house"},{"point":[1,790],"label":"tree"},{"point":[20,879],"label":"bicycle"},{"point":[9,1066],"label":"guitar"},{"point":[5,420],"label":"pencil"},{"point":[22,1006],"label":"clock"},{"point":[14,1176],"label":"car"},{"point":[6,635],"label":"fish"},{"point":[16,1046],"label":"house"},{"point":[28,730],"label":"tree"},{"point":[21,898],"label":"bicycle"},{"point":[26,1019],"label":"guitar"},{"point":[7,612],"label":"pencil"},{"point":[26,1113],"label":"clock"},{"point":[2,384],"label":"car"},{"point":[3,517],"label":"fish"},{"point":[20,1797],"label":"house"},{"point":[14,1306],"label":"tree"},{"point":[7,396],"label":"bicycle"},{"point":[11,1372],"label":"guitar"},{"point":[18,803],"label":"pencil"},{"point":[21,1093],"label":"clock"},{"point":[16,789],"label":"car"},{"point":[9,550],"label":"fish"},{"point":[14,599],"label":"house"},{"point":[15,698],"label":"tree"},{"point":[24,900],"label":"bicycle"},{"point":[7,582],"label":"guitar"},{"point":[5,213],"label":"pencil"},{"point":[14,304],"label":"clock"},{"point":[8,735],"label":"car"},{"point":[8,355],"label":"fish"},{"point":[7,355],"label":"house"},{"point":[3,319],"label":"tree"},{"point":[7,321],"label":"bicycle"},{"point":[6,576],"label":"guitar"},{"point":[6,194],"label":"pencil"},{"point":[7,277],"label":"clock"},{"point":[5,928],"label":"car"},{"point":[5,359],"label":"fish"},{"point":[9,577],"label":"house"},{"point":[6,411],"label":"tree"},{"point":[9,426],"label":"bicycle"},{"point":[7,515],"label":"guitar"},{"point":[6,369],"label":"pencil"},{"point":[12,696],"label":"clock"},{"point":[1,358],"label":"car"},{"point":[4,394],"label":"fish"},{"point":[9,580],"label":"house"},{"point":[7,425],"label":"tree"},{"point":[11,369],"label":"bicycle"},{"point":[9,682],"label":"guitar"},{"point":[12,404],"label":"pencil"},{"point":[11,213],"label":"clock"},{"point":[5,459],"label":"car"},{"point":[23,865],"label":"fish"},{"point":[9,568],"label":"house"},{"point":[10,622],"label":"tree"},{"point":[12,733],"label":"bicycle"},{"point":[12,892],"label":"guitar"},{"point":[16,432],"label":"pencil"},{"point":[19,659],"label":"clock"},{"point":[14,812],"label":"car"},{"point":[7,535],"label":"fish"},{"point":[21,1471],"label":"house"},{"point":[11,1420],"label":"tree"},{"point":[18,1464],"label":"bicycle"},{"point":[15,1455],"label":"guitar"},{"point":[8,650],"label":"pencil"},{"point":[21,775],"label":"clock"},{"point":[40,1920],"label":"car"},{"point":[51,1545],"label":"fish"},{"point":[32,1442],"label":"house"},{"point":[57,1783],"label":"tree"},{"point":[34,1757],"label":"bicycle"},{"point":[17,984],"label":"guitar"},{"point":[5,325],"label":"pencil"},{"point":[23,824],"label":"clock"},{"point":[7,560],"label":"car"},{"point":[5,147],"label":"fish"},{"point":[7,395],"label":"house"},{"point":[25,448],"label":"tree"},{"point":[11,308],"label":"bicycle"},{"point":[14,403],"label":"guitar"},{"point":[12,418],"label":"pencil"},{"point":[5,256],"label":"clock"},{"point":[38,2032],"label":"car"},{"point":[27,1235],"label":"fish"},{"point":[48,2355],"label":"house"},{"point":[108,2251],"label":"tree"},{"point":[68,3583],"label":"bicycle"},{"point":[19,2303],"label":"guitar"},{"point":[15,1000],"label":"pencil"},{"point":[30,1930],"label":"clock"},{"point":[7,807],"label":"car"},{"point":[8,640],"label":"fish"},{"point":[20,1135],"label":"house"},{"point":[3,360],"label":"tree"},{"point":[27,1110],"label":"bicycle"},{"point":[16,1012],"label":"guitar"},{"point":[10,411],"label":"pencil"},{"point":[9,408],"label":"clock"},{"point":[21,806],"label":"car"},{"point":[7,233],"label":"fish"},{"point":[7,134],"label":"house"},{"point":[5,314],"label":"tree"},{"point":[7,301],"label":"bicycle"},{"point":[13,716],"label":"guitar"},{"point":[7,292],"label":"pencil"},{"point":[2,170],"label":"clock"},{"point":[12,511],"label":"car"},{"point":[6,509],"label":"fish"},{"point":[14,402],"label":"house"},{"point":[4,371],"label":"tree"},{"point":[8,472],"label":"bicycle"},{"point":[7,396],"label":"guitar"},{"point":[8,135],"label":"pencil"},{"point":[10,203],"label":"clock"},{"point":[7,732],"label":"car"},{"point":[5,274],"label":"fish"},{"point":[9,631],"label":"house"},{"point":[8,586],"label":"tree"},{"point":[14,455],"label":"bicycle"},{"point":[8,1005],"label":"guitar"},{"point":[9,465],"label":"pencil"},{"point":[11,515],"label":"clock"},{"point":[6,909],"label":"car"},{"point":[7,518],"label":"fish"},{"point":[6,461],"label":"house"},{"point":[9,642],"label":"tree"},{"point":[12,485],"label":"bicycle"},{"point":[17,919],"label":"guitar"},{"point":[3,209],"label":"pencil"},{"point":[7,184],"label":"clock"},{"point":[42,6522],"label":"car"},{"point":[11,1710],"label":"fish"},{"point":[32,3182],"label":"house"},{"point":[12,1523],"label":"tree"},{"point":[35,3892],"label":"bicycle"},{"point":[23,2415],"label":"guitar"},{"point":[14,2572],"label":"pencil"},{"point":[22,2657],"label":"clock"},{"point":[5,325],"label":"car"},{"point":[4,373],"label":"fish"},{"point":[8,308],"label":"house"},{"point":[3,297],"label":"tree"},{"point":[6,189],"label":"bicycle"},{"point":[12,696],"label":"guitar"},{"point":[3,246],"label":"pencil"},{"point":[19,393],"label":"clock"},{"point":[16,1025],"label":"car"},{"point":[1,10],"label":"fish"},{"point":[28,1482],"label":"house"},{"point":[16,628],"label":"tree"},{"point":[33,1267],"label":"bicycle"},{"point":[15,747],"label":"guitar"},{"point":[8,574],"label":"pencil"},{"point":[15,212],"label":"clock"},{"point":[19,624],"label":"car"},{"point":[18,535],"label":"fish"},{"point":[16,533],"label":"house"},{"point":[35,1300],"label":"tree"},{"point":[21,514],"label":"bicycle"},{"point":[21,453],"label":"guitar"},{"point":[11,410],"label":"pencil"},{"point":[10,356],"label":"clock"},{"point":[8,123],"label":"car"},{"point":[19,206],"label":"fish"},{"point":[18,246],"label":"house"},{"point":[15,157],"label":"tree"},{"point":[12,204],"label":"bicycle"},{"point":[18,230],"label":"guitar"},{"point":[7,56],"label":"pencil"},{"point":[9,83],"label":"clock"},{"point":[6,214],"label":"car"},{"point":[21,218],"label":"fish"},{"point":[3,78],"label":"house"},{"point":[2,129],"label":"tree"},{"point":[3,67],"label":"bicycle"},{"point":[12,284],"label":"guitar"},{"point":[9,140],"label":"pencil"},{"point":[6,135],"label":"clock"},{"point":[1,277],"label":"car"},{"point":[5,207],"label":"fish"},{"point":[7,235],"label":"house"},{"point":[3,275],"label":"tree"},{"point":[14,219],"label":"bicycle"},{"point":[8,430],"label":"guitar"},{"point":[6,116],"label":"pencil"},{"point":[3,87],"label":"clock"},{"point":[5,878],"label":"car"},{"point":[5,443],"label":"fish"},{"point":[2,429],"label":"house"},{"point":[3,343],"label":"tree"},{"point":[16,1205],"label":"bicycle"},{"point":[6,490],"label":"guitar"},{"point":[3,287],"label":"pencil"},{"point":[2,208],"label":"clock"},{"point":[16,675],"label":"car"},{"point":[20,563],"label":"fish"},{"point":[12,598],"label":"house"},{"point":[11,347],"label":"tree"},{"point":[27,1363],"label":"bicycle"},{"point":[5,396],"label":"guitar"},{"point":[23,1000],"label":"pencil"},{"point":[19,630],"label":"clock"},{"point":[3,730],"label":"car"},{"point":[8,658],"label":"fish"},{"point":[5,368],"label":"house"},{"point":[6,465],"label":"tree"},{"point":[19,2974],"label":"bicycle"},{"point":[7,2098],"label":"guitar"},{"point":[7,757],"label":"pencil"},{"point":[3,825],"label":"clock"},{"point":[11,860],"label":"car"},{"point":[7,569],"label":"fish"},{"point":[4,403],"label":"house"},{"point":[6,307],"label":"tree"},{"point":[8,338],"label":"bicycle"},{"point":[4,347],"label":"guitar"},{"point":[3,196],"label":"pencil"},{"point":[5,137],"label":"clock"},{"point":[17,1596],"label":"car"},{"point":[7,883],"label":"fish"},{"point":[21,1010],"label":"house"},{"point":[48,1365],"label":"tree"},{"point":[14,1212],"label":"bicycle"},{"point":[20,1169],"label":"guitar"},{"point":[5,351],"label":"pencil"},{"point":[18,1000],"label":"clock"},{"point":[4,134],"label":"car"},{"point":[4,500],"label":"fish"},{"point":[46,823],"label":"house"},{"point":[39,717],"label":"tree"},{"point":[15,404],"label":"bicycle"},{"point":[22,404],"label":"guitar"},{"point":[36,768],"label":"pencil"},{"point":[19,299],"label":"clock"},{"point":[5,773],"label":"car"},{"point":[6,556],"label":"fish"},{"point":[11,635],"label":"house"},{"point":[5,358],"label":"tree"},{"point":[6,376],"label":"bicycle"},{"point":[5,1062],"label":"guitar"},{"point":[5,864],"label":"pencil"},{"point":[1,299],"label":"clock"},{"point":[18,779],"label":"car"},{"point":[24,780],"label":"fish"},{"point":[14,568],"label":"house"},{"point":[5,385],"label":"tree"},{"point":[17,685],"label":"bicycle"},{"point":[19,885],"label":"guitar"},{"point":[7,348],"label":"pencil"},{"point":[37,1133],"label":"clock"},{"point":[23,2203],"label":"car"},{"point":[3,650],"label":"fish"},{"point":[22,1182],"label":"house"},{"point":[15,855],"label":"tree"},{"point":[7,563],"label":"bicycle"},{"point":[17,1971],"label":"guitar"},{"point":[26,1468],"label":"pencil"},{"point":[14,1143],"label":"clock"},{"point":[5,1006],"label":"car"},{"point":[7,811],"label":"fish"},{"point":[10,668],"label":"house"},{"point":[3,394],"label":"tree"},{"point":[28,1198],"label":"bicycle"},{"point":[26,1166],"label":"guitar"},{"point":[10,530],"label":"pencil"},{"point":[21,1110],"label":"clock"},{"point":[16,1547],"label":"car"},{"point":[4,323],"label":"fish"},{"point":[18,742],"label":"house"},{"point":[11,512],"label":"tree"},{"point":[36,1498],"label":"bicycle"},{"point":[18,1132],"label":"guitar"},{"point":[18,486],"label":"pencil"},{"point":[13,808],"label":"clock"},{"point":[11,962],"label":"car"},{"point":[52,1593],"label":"fish"},{"point":[73,1246],"label":"house"},{"point":[125,2329],"label":"tree"},{"point":[39,1338],"label":"bicycle"},{"point":[40,1393],"label":"guitar"},{"point":[14,385],"label":"pencil"},{"point":[14,438],"label":"clock"},{"point":[14,3085],"label":"car"},{"point":[6,1802],"label":"fish"},{"point":[15,2385],"label":"house"},{"point":[3,1138],"label":"tree"},{"point":[6,1888],"label":"bicycle"},{"point":[10,2243],"label":"guitar"},{"point":[8,1341],"label":"pencil"},{"point":[10,2286],"label":"clock"},{"point":[8,547],"label":"car"},{"point":[10,403],"label":"fish"},{"point":[14,390],"label":"house"},{"point":[4,285],"label":"tree"},{"point":[15,390],"label":"bicycle"},{"point":[15,594],"label":"guitar"},{"point":[13,194],"label":"pencil"},{"point":[4,115],"label":"clock"},{"point":[20,828],"label":"car"},{"point":[3,132],"label":"fish"},{"point":[14,441],"label":"house"},{"point":[31,1287],"label":"tree"},{"point":[11,358],"label":"bicycle"},{"point":[20,1117],"label":"guitar"},{"point":[15,413],"label":"pencil"},{"point":[3,80],"label":"clock"},{"point":[25,518],"label":"car"},{"point":[8,278],"label":"fish"},{"point":[11,322],"label":"house"},{"point":[8,230],"label":"tree"},{"point":[23,828],"label":"bicycle"},{"point":[9,560],"label":"guitar"},{"point":[12,325],"label":"pencil"},{"point":[16,355],"label":"clock"},{"point":[15,506],"label":"car"},{"point":[13,374],"label":"fish"},{"point":[44,711],"label":"house"},{"point":[40,824],"label":"tree"},{"point":[2,82],"label":"bicycle"},{"point":[16,349],"label":"guitar"},{"point":[14,211],"label":"pencil"},{"point":[8,284],"label":"clock"},{"point":[9,648],"label":"car"},{"point":[6,556],"label":"fish"},{"point":[9,630],"label":"house"},{"point":[11,486],"label":"tree"},{"point":[23,1052],"label":"bicycle"},{"point":[12,864],"label":"guitar"},{"point":[6,385],"label":"pencil"},{"point":[22,754],"label":"clock"},{"point":[3,683],"label":"car"},{"point":[3,238],"label":"fish"},{"point":[7,190],"label":"house"},{"point":[8,361],"label":"tree"},{"point":[7,243],"label":"bicycle"},{"point":[6,372],"label":"guitar"},{"point":[1,100],"label":"pencil"},{"point":[4,174],"label":"clock"},{"point":[12,645],"label":"car"},{"point":[25,507],"label":"fish"},{"point":[11,789],"label":"house"},{"point":[5,264],"label":"tree"},{"point":[18,538],"label":"bicycle"},{"point":[17,826],"label":"guitar"},{"point":[8,366],"label":"pencil"},{"point":[7,434],"label":"clock"},{"point":[34,1126],"label":"car"},{"point":[7,457],"label":"fish"},{"point":[16,653],"label":"house"},{"point":[5,455],"label":"tree"},{"point":[33,1601],"label":"bicycle"},{"point":[14,931],"label":"guitar"},{"point":[2,178],"label":"pencil"},{"point":[4,364],"label":"clock"},{"point":[4,185],"label":"car"},{"point":[5,333],"label":"fish"},{"point":[14,343],"label":"house"},{"point":[20,489],"label":"tree"},{"point":[17,341],"label":"bicycle"},{"point":[24,613],"label":"guitar"},{"point":[9,290],"label":"pencil"},{"point":[3,229],"label":"clock"},{"point":[8,404],"label":"car"},{"point":[4,539],"label":"fish"},{"point":[9,491],"label":"house"},{"point":[15,843],"label":"tree"},{"point":[9,391],"label":"bicycle"},{"point":[10,1430],"label":"guitar"},{"point":[4,384],"label":"pencil"},{"point":[13,825],"label":"clock"},{"point":[8,431],"label":"car"},{"point":[7,278],"label":"fish"},{"point":[9,87],"label":"house"},{"point":[4,207],"label":"tree"},{"point":[8,147],"label":"bicycle"},{"point":[2,253],"label":"guitar"},{"point":[6,93],"label":"pencil"},{"point":[14,95],"label":"clock"},{"point":[5,1070],"label":"car"},{"point":[21,931],"label":"fish"},{"point":[32,1370],"label":"house"},{"point":[21,883],"label":"tree"},{"point":[14,1062],"label":"bicycle"},{"point":[39,1595],"label":"guitar"},{"point":[4,271],"label":"pencil"},{"point":[21,1111],"label":"clock"},{"point":[6,766],"label":"car"},{"point":[16,683],"label":"fish"},{"point":[19,1270],"label":"house"},{"point":[14,1187],"label":"tree"},{"point":[25,1034],"label":"bicycle"},{"point":[13,1136],"label":"guitar"},{"point":[24,674],"label":"pencil"},{"point":[28,879],"label":"clock"},{"point":[3,352],"label":"car"},{"point":[4,435],"label":"fish"},{"point":[3,267],"label":"house"},{"point":[1,268],"label":"tree"},{"point":[12,389],"label":"bicycle"},{"point":[12,347],"label":"guitar"},{"point":[2,102],"label":"pencil"},{"point":[7,169],"label":"clock"},{"point":[11,468],"label":"car"},{"point":[7,197],"label":"fish"},{"point":[10,328],"label":"house"},{"point":[25,473],"label":"tree"},{"point":[19,620],"label":"bicycle"},{"point":[9,493],"label":"guitar"},{"point":[5,90],"label":"pencil"},{"point":[2,128],"label":"clock"},{"point":[10,518],"label":"car"},{"point":[8,370],"label":"fish"},{"point":[29,962],"label":"house"},{"point":[4,490],"label":"tree"},{"point":[11,645],"label":"bicycle"},{"point":[18,886],"label":"guitar"},{"point":[7,494],"label":"pencil"},{"point":[8,444],"label":"clock"},{"point":[6,353],"label":"car"},{"point":[11,346],"label":"fish"},{"point":[18,384],"label":"house"},{"point":[4,229],"label":"tree"},{"point":[11,408],"label":"bicycle"},{"point":[5,336],"label":"guitar"},{"point":[5,197],"label":"pencil"},{"point":[14,283],"label":"clock"},{"point":[12,505],"label":"car"},{"point":[4,248],"label":"fish"},{"point":[30,1680],"label":"house"},{"point":[8,447],"label":"tree"},{"point":[7,433],"label":"bicycle"},{"point":[8,577],"label":"guitar"},{"point":[2,473],"label":"pencil"},{"point":[2,358],"label":"clock"},{"point":[48,1876],"label":"car"},{"point":[15,826],"label":"fish"},{"point":[27,1237],"label":"house"},{"point":[7,638],"label":"tree"},{"point":[28,1146],"label":"bicycle"},{"point":[15,480],"label":"guitar"},{"point":[14,771],"label":"pencil"},{"point":[13,402],"label":"clock"},{"point":[25,593],"label":"car"},{"point":[4,163],"label":"fish"},{"point":[6,305],"label":"house"},{"point":[3,214],"label":"tree"},{"point":[9,331],"label":"bicycle"},{"point":[9,295],"label":"guitar"},{"point":[3,157],"label":"pencil"},{"point":[7,151],"label":"clock"},{"point":[8,265],"label":"car"},{"point":[3,54],"label":"fish"},{"point":[2,98],"label":"house"},{"point":[2,396],"label":"tree"},{"point":[10,135],"label":"bicycle"},{"point":[13,419],"label":"guitar"},{"point":[12,297],"label":"pencil"},{"point":[22,175],"label":"clock"},{"point":[9,577],"label":"car"},{"point":[4,316],"label":"fish"},{"point":[13,386],"label":"house"},{"point":[3,253],"label":"tree"},{"point":[8,329],"label":"bicycle"},{"point":[8,347],"label":"guitar"},{"point":[6,204],"label":"pencil"},{"point":[14,171],"label":"clock"},{"point":[10,842],"label":"car"},{"point":[3,167],"label":"fish"},{"point":[8,735],"label":"house"},{"point":[3,376],"label":"tree"},{"point":[8,589],"label":"bicycle"},{"point":[12,892],"label":"guitar"},{"point":[3,278],"label":"pencil"},{"point":[7,422],"label":"clock"},{"point":[5,695],"label":"car"},{"point":[3,516],"label":"fish"},{"point":[1,860],"label":"house"},{"point":[3,667],"label":"tree"},{"point":[5,360],"label":"bicycle"},{"point":[4,907],"label":"guitar"},{"point":[6,642],"label":"pencil"},{"point":[10,331],"label":"clock"},{"point":[4,197],"label":"car"},{"point":[2,142],"label":"fish"},{"point":[9,569],"label":"house"},{"point":[3,178],"label":"tree"},{"point":[10,317],"label":"bicycle"},{"point":[12,358],"label":"guitar"},{"point":[6,196],"label":"pencil"},{"point":[3,120],"label":"clock"},{"point":[14,1041],"label":"car"},{"point":[11,523],"label":"fish"},{"point":[7,543],"label":"house"},{"point":[4,340],"label":"tree"},{"point":[20,959],"label":"bicycle"},{"point":[11,647],"label":"guitar"},{"point":[9,510],"label":"pencil"},{"point":[6,229],"label":"clock"},{"point":[21,1177],"label":"car"},{"point":[2,410],"label":"fish"},{"point":[8,485],"label":"house"},{"point":[3,203],"label":"tree"},{"point":[9,411],"label":"bicycle"},{"point":[13,719],"label":"guitar"},{"point":[1,165],"label":"pencil"},{"point":[9,198],"label":"clock"},{"point":[8,404],"label":"car"},{"point":[3,368],"label":"fish"},{"point":[14,451],"label":"house"},{"point":[10,98],"label":"tree"},{"point":[8,132],"label":"bicycle"},{"point":[10,467],"label":"guitar"},{"point":[7,105],"label":"pencil"},{"point":[3,57],"label":"clock"},{"point":[32,1379],"label":"car"},{"point":[3,541],"label":"fish"},{"point":[29,872],"label":"house"},{"point":[9,551],"label":"tree"},{"point":[38,1181],"label":"bicycle"},{"point":[29,1553],"label":"guitar"},{"point":[18,372],"label":"pencil"},{"point":[19,1017],"label":"clock"},{"point":[8,453],"label":"car"},{"point":[6,476],"label":"fish"},{"point":[16,518],"label":"house"},{"point":[10,423],"label":"tree"},{"point":[18,415],"label":"bicycle"},{"point":[9,374],"label":"guitar"},{"point":[7,201],"label":"pencil"},{"point":[15,319],"label":"clock"},{"point":[14,946],"label":"car"},{"point":[6,597],"label":"fish"},{"point":[5,464],"label":"house"},{"point":[9,609],"label":"tree"},{"point":[20,908],"label":"bicycle"},{"point":[18,1363],"label":"guitar"},{"point":[8,650],"label":"pencil"},{"point":[17,423],"label":"clock"},{"point":[11,651],"label":"car"},{"point":[7,549],"label":"fish"},{"point":[19,589],"label":"house"},{"point":[16,724],"label":"tree"},{"point":[16,1088],"label":"bicycle"},{"point":[16,589],"label":"guitar"},{"point":[15,543],"label":"pencil"},{"point":[6,203],"label":"clock"},{"point":[23,2330],"label":"car"},{"point":[20,2030],"label":"fish"},{"point":[27,3292],"label":"house"},{"point":[26,3118],"label":"tree"},{"point":[32,3069],"label":"bicycle"},{"point":[8,3210],"label":"guitar"},{"point":[6,1323],"label":"pencil"},{"point":[1,366],"label":"clock"},{"point":[27,1566],"label":"car"},{"point":[4,1007],"label":"fish"},{"point":[31,1430],"label":"house"},{"point":[36,978],"label":"tree"},{"point":[51,2938],"label":"bicycle"},{"point":[20,2057],"label":"guitar"},{"point":[10,886],"label":"pencil"},{"point":[10,1837],"label":"clock"},{"point":[7,1410],"label":"car"},{"point":[4,889],"label":"fish"},{"point":[7,908],"label":"house"},{"point":[13,1294],"label":"tree"},{"point":[18,1360],"label":"bicycle"},{"point":[8,1058],"label":"guitar"},{"point":[4,727],"label":"pencil"},{"point":[16,994],"label":"clock"},{"point":[11,1069],"label":"car"},{"point":[3,475],"label":"fish"},{"point":[11,702],"label":"house"},{"point":[5,330],"label":"tree"},{"point":[25,1133],"label":"bicycle"},{"point":[13,765],"label":"guitar"},{"point":[4,328],"label":"pencil"},{"point":[16,576],"label":"clock"},{"point":[21,589],"label":"car"},{"point":[6,783],"label":"fish"},{"point":[28,1342],"label":"house"},{"point":[3,531],"label":"tree"},{"point":[11,1025],"label":"bicycle"},{"point":[12,1228],"label":"guitar"},{"point":[7,974],"label":"pencil"},{"point":[26,672],"label":"clock"},{"point":[5,811],"label":"car"},{"point":[5,691],"label":"fish"},{"point":[7,943],"label":"house"},{"point":[3,572],"label":"tree"},{"point":[10,703],"label":"bicycle"},{"point":[11,613],"label":"guitar"},{"point":[8,990],"label":"pencil"},{"point":[1,124],"label":"clock"},{"point":[2,80],"label":"car"},{"point":[17,513],"label":"fish"},{"point":[7,318],"label":"house"},{"point":[4,202],"label":"tree"},{"point":[9,281],"label":"bicycle"},{"point":[14,283],"label":"guitar"},{"point":[11,211],"label":"pencil"},{"point":[2,87],"label":"clock"},{"point":[16,889],"label":"car"},{"point":[18,725],"label":"fish"},{"point":[27,957],"label":"house"},{"point":[24,815],"label":"tree"},{"point":[28,800],"label":"bicycle"},{"point":[9,546],"label":"guitar"},{"point":[5,326],"label":"pencil"},{"point":[10,546],"label":"clock"},{"point":[10,682],"label":"car"},{"point":[7,482],"label":"fish"},{"point":[13,500],"label":"house"},{"point":[4,336],"label":"tree"},{"point":[14,288],"label":"bicycle"},{"point":[24,778],"label":"guitar"},{"point":[11,188],"label":"pencil"},{"point":[12,302],"label":"clock"},{"point":[3,190],"label":"car"},{"point":[1,208],"label":"fish"},{"point":[3,184],"label":"house"},{"point":[40,1638],"label":"tree"},{"point":[20,633],"label":"bicycle"},{"point":[10,569],"label":"guitar"},{"point":[4,241],"label":"pencil"},{"point":[4,222],"label":"clock"},{"point":[4,469],"label":"car"},{"point":[3,365],"label":"fish"},{"point":[15,470],"label":"house"},{"point":[4,363],"label":"tree"},{"point":[18,721],"label":"bicycle"},{"point":[10,628],"label":"guitar"},{"point":[7,282],"label":"pencil"},{"point":[18,316],"label":"clock"},{"point":[7,695],"label":"car"},{"point":[3,369],"label":"fish"},{"point":[11,780],"label":"house"},{"point":[2,446],"label":"tree"},{"point":[17,502],"label":"bicycle"},{"point":[12,1260],"label":"guitar"},{"point":[6,235],"label":"pencil"},{"point":[8,477],"label":"clock"},{"point":[17,291],"label":"car"},{"point":[12,176],"label":"fish"},{"point":[11,153],"label":"house"},{"point":[3,168],"label":"tree"},{"point":[20,285],"label":"bicycle"},{"point":[12,256],"label":"guitar"},{"point":[14,140],"label":"pencil"},{"point":[3,104],"label":"clock"},{"point":[3,391],"label":"car"},{"point":[1,278],"label":"fish"},{"point":[7,623],"label":"house"},{"point":[3,263],"label":"tree"},{"point":[9,411],"label":"bicycle"},{"point":[7,478],"label":"guitar"},{"point":[2,234],"label":"pencil"},{"point":[7,190],"label":"clock"},{"point":[15,1402],"label":"car"},{"point":[13,746],"label":"fish"},{"point":[39,1712],"label":"house"},{"point":[11,713],"label":"tree"},{"point":[21,1421],"label":"bicycle"},{"point":[15,980],"label":"guitar"},{"point":[12,701],"label":"pencil"},{"point":[22,1267],"label":"clock"},{"point":[6,378],"label":"car"},{"point":[4,361],"label":"fish"},{"point":[8,393],"label":"house"},{"point":[3,123],"label":"tree"},{"point":[9,241],"label":"bicycle"},{"point":[9,267],"label":"guitar"},{"point":[2,220],"label":"pencil"},{"point":[3,101],"label":"clock"},{"point":[14,699],"label":"car"},{"point":[5,320],"label":"fish"},{"point":[23,1286],"label":"house"},{"point":[3,232],"label":"tree"},{"point":[7,275],"label":"bicycle"},{"point":[5,628],"label":"guitar"},{"point":[8,238],"label":"pencil"},{"point":[4,228],"label":"clock"},{"point":[7,302],"label":"car"},{"point":[3,204],"label":"fish"},{"point":[7,297],"label":"house"},{"point":[3,116],"label":"tree"},{"point":[7,103],"label":"bicycle"},{"point":[1,159],"label":"guitar"},{"point":[1,30],"label":"pencil"},{"point":[4,45],"label":"clock"},{"point":[7,632],"label":"car"},{"point":[6,268],"label":"fish"},{"point":[13,400],"label":"house"},{"point":[3,163],"label":"tree"},{"point":[8,181],"label":"bicycle"},{"point":[4,285],"label":"guitar"},{"point":[3,119],"label":"pencil"},{"point":[3,119],"label":"clock"},{"point":[5,390],"label":"car"},{"point":[5,325],"label":"fish"},{"point":[6,534],"label":"house"},{"point":[4,401],"label":"tree"},{"point":[4,374],"label":"bicycle"},{"point":[15,968],"label":"guitar"},{"point":[14,1003],"label":"pencil"},{"point":[8,495],"label":"clock"},{"point":[10,1249],"label":"car"},{"point":[9,802],"label":"fish"},{"point":[6,421],"label":"house"},{"point":[4,342],"label":"tree"},{"point":[7,740],"label":"bicycle"},{"point":[6,695],"label":"guitar"},{"point":[4,632],"label":"pencil"},{"point":[2,314],"label":"clock"},{"point":[10,814],"label":"car"},{"point":[16,567],"label":"fish"},{"point":[15,727],"label":"house"},{"point":[5,593],"label":"tree"},{"point":[11,610],"label":"bicycle"},{"point":[19,1146],"label":"guitar"},{"point":[6,238],"label":"pencil"},{"point":[4,322],"label":"clock"},{"point":[6,659],"label":"car"},{"point":[12,960],"label":"fish"},{"point":[15,998],"label":"house"},{"point":[6,618],"label":"tree"},{"point":[7,434],"label":"bicycle"},{"point":[5,502],"label":"guitar"},{"point":[2,330],"label":"pencil"},{"point":[5,418],"label":"clock"},{"point":[8,690],"label":"car"},{"point":[10,492],"label":"fish"},{"point":[19,487],"label":"house"},{"point":[5,444],"label":"tree"},{"point":[23,848],"label":"bicycle"},{"point":[17,594],"label":"guitar"},{"point":[12,448],"label":"pencil"},{"point":[13,443],"label":"clock"},{"point":[13,762],"label":"car"},{"point":[9,428],"label":"fish"},{"point":[13,848],"label":"house"},{"point":[3,204],"label":"tree"},{"point":[6,312],"label":"bicycle"},{"point":[8,419],"label":"guitar"},{"point":[10,373],"label":"pencil"},{"point":[8,228],"label":"clock"},{"point":[17,765],"label":"car"},{"point":[52,378],"label":"fish"},{"point":[14,538],"label":"house"},{"point":[11,345],"label":"tree"},{"point":[13,301],"label":"bicycle"},{"point":[17,564],"label":"guitar"},{"point":[14,306],"label":"pencil"},{"point":[12,236],"label":"clock"},{"point":[3,884],"label":"car"},{"point":[4,407],"label":"fish"},{"point":[8,931],"label":"house"},{"point":[10,634],"label":"tree"},{"point":[8,732],"label":"bicycle"},{"point":[10,1248],"label":"guitar"},{"point":[5,797],"label":"pencil"},{"point":[3,261],"label":"clock"},{"point":[4,487],"label":"car"},{"point":[3,234],"label":"fish"},{"point":[6,306],"label":"house"},{"point":[2,611],"label":"tree"},{"point":[11,479],"label":"bicycle"},{"point":[4,314],"label":"guitar"},{"point":[11,259],"label":"pencil"},{"point":[6,222],"label":"clock"},{"point":[4,649],"label":"car"},{"point":[3,321],"label":"fish"},{"point":[12,796],"label":"house"},{"point":[27,2620],"label":"tree"},{"point":[20,908],"label":"bicycle"},{"point":[19,1282],"label":"guitar"},{"point":[7,402],"label":"pencil"},{"point":[17,775],"label":"clock"},{"point":[1,579],"label":"car"},{"point":[2,338],"label":"fish"},{"point":[4,532],"label":"house"},{"point":[1,479],"label":"tree"},{"point":[6,429],"label":"bicycle"},{"point":[5,772],"label":"guitar"},{"point":[1,204],"label":"pencil"},{"point":[9,624],"label":"clock"},{"point":[5,762],"label":"car"},{"point":[3,675],"label":"fish"},{"point":[7,528],"label":"house"},{"point":[3,443],"label":"tree"},{"point":[15,876],"label":"bicycle"},{"point":[17,1597],"label":"guitar"},{"point":[5,478],"label":"pencil"},{"point":[2,312],"label":"clock"},{"point":[7,1321],"label":"car"},{"point":[4,554],"label":"fish"},{"point":[11,808],"label":"house"},{"point":[13,996],"label":"tree"},{"point":[6,593],"label":"bicycle"},{"point":[4,739],"label":"guitar"},{"point":[2,245],"label":"pencil"},{"point":[3,235],"label":"clock"},{"point":[15,622],"label":"car"},{"point":[7,471],"label":"fish"},{"point":[31,1006],"label":"house"},{"point":[3,378],"label":"tree"},{"point":[45,1771],"label":"bicycle"},{"point":[11,1181],"label":"guitar"},{"point":[5,327],"label":"pencil"},{"point":[23,810],"label":"clock"},{"point":[25,1936],"label":"car"},{"point":[6,442],"label":"fish"},{"point":[16,682],"label":"house"},{"point":[10,272],"label":"tree"},{"point":[42,1787],"label":"bicycle"},{"point":[26,1569],"label":"guitar"},{"point":[21,1031],"label":"pencil"},{"point":[37,936],"label":"clock"},{"point":[18,734],"label":"car"},{"point":[4,534],"label":"fish"},{"point":[20,915],"label":"house"},{"point":[4,305],"label":"tree"},{"point":[31,776],"label":"bicycle"},{"point":[7,536],"label":"guitar"},{"point":[5,154],"label":"pencil"},{"point":[6,460],"label":"clock"},{"point":[1,596],"label":"car"},{"point":[1,386],"label":"fish"},{"point":[3,300],"label":"house"},{"point":[2,417],"label":"tree"},{"point":[11,903],"label":"bicycle"},{"point":[2,580],"label":"guitar"},{"point":[1,282],"label":"pencil"},{"point":[13,168],"label":"clock"},{"point":[9,801],"label":"car"},{"point":[7,465],"label":"fish"},{"point":[12,506],"label":"house"},{"point":[15,442],"label":"tree"},{"point":[16,573],"label":"bicycle"},{"point":[20,1028],"label":"guitar"},{"point":[4,336],"label":"pencil"},{"point":[16,340],"label":"clock"},{"point":[5,423],"label":"car"},{"point":[11,279],"label":"fish"},{"point":[28,437],"label":"house"},{"point":[7,630],"label":"tree"},{"point":[26,829],"label":"bicycle"},{"point":[16,460],"label":"guitar"},{"point":[10,198],"label":"pencil"},{"point":[8,258],"label":"clock"},{"point":[6,442],"label":"car"},{"point":[5,253],"label":"fish"},{"point":[17,394],"label":"house"},{"point":[4,566],"label":"tree"},{"point":[22,444],"label":"bicycle"},{"point":[6,612],"label":"guitar"},{"point":[9,312],"label":"pencil"},{"point":[16,466],"label":"clock"},{"point":[10,444],"label":"car"},{"point":[6,452],"label":"fish"},{"point":[15,492],"label":"house"},{"point":[3,366],"label":"tree"},{"point":[12,269],"label":"bicycle"},{"point":[12,684],"label":"guitar"},{"point":[9,355],"label":"pencil"},{"point":[21,655],"label":"clock"},{"point":[11,723],"label":"car"},{"point":[9,345],"label":"fish"},{"point":[10,187],"label":"house"},{"point":[4,272],"label":"tree"},{"point":[14,512],"label":"bicycle"},{"point":[13,809],"label":"guitar"},{"point":[11,340],"label":"pencil"},{"point":[17,757],"label":"clock"},{"point":[6,385],"label":"car"},{"point":[5,327],"label":"fish"},{"point":[11,307],"label":"house"},{"point":[1,308],"label":"tree"},{"point":[6,158],"label":"bicycle"},{"point":[4,264],"label":"guitar"},{"point":[6,213],"label":"pencil"},{"point":[7,220],"label":"clock"},{"point":[11,906],"label":"car"},{"point":[13,295],"label":"fish"},{"point":[26,811],"label":"house"},{"point":[12,1100],"label":"tree"},{"point":[26,1175],"label":"bicycle"},{"point":[14,580],"label":"guitar"},{"point":[5,297],"label":"pencil"},{"point":[24,674],"label":"clock"},{"point":[10,2209],"label":"car"},{"point":[5,1450],"label":"fish"},{"point":[9,1241],"label":"house"},{"point":[4,1306],"label":"tree"},{"point":[11,1821],"label":"bicycle"},{"point":[5,1439],"label":"guitar"},{"point":[6,825],"label":"pencil"},{"point":[23,2897],"label":"clock"},{"point":[5,664],"label":"car"},{"point":[6,430],"label":"fish"},{"point":[6,449],"label":"house"},{"point":[3,372],"label":"tree"},{"point":[16,719],"label":"bicycle"},{"point":[16,1250],"label":"guitar"},{"point":[6,404],"label":"pencil"},{"point":[15,371],"label":"clock"},{"point":[7,1336],"label":"car"},{"point":[6,916],"label":"fish"},{"point":[21,1156],"label":"house"},{"point":[10,999],"label":"tree"},{"point":[12,1234],"label":"bicycle"},{"point":[16,1146],"label":"guitar"},{"point":[11,871],"label":"pencil"},{"point":[8,622],"label":"clock"},{"point":[17,291],"label":"car"},{"point":[19,496],"label":"fish"},{"point":[29,258],"label":"house"},{"point":[18,447],"label":"tree"},{"point":[47,547],"label":"bicycle"},{"point":[13,175],"label":"guitar"},{"point":[13,85],"label":"pencil"},{"point":[53,339],"label":"clock"},{"point":[3,272],"label":"car"},{"point":[3,83],"label":"fish"},{"point":[13,170],"label":"house"},{"point":[8,161],"label":"tree"},{"point":[9,127],"label":"bicycle"},{"point":[8,256],"label":"guitar"},{"point":[6,135],"label":"pencil"},{"point":[14,106],"label":"clock"},{"point":[5,201],"label":"car"},{"point":[9,148],"label":"fish"},{"point":[10,156],"label":"house"},{"point":[9,213],"label":"tree"},{"point":[11,189],"label":"bicycle"},{"point":[19,534],"label":"guitar"},{"point":[11,122],"label":"pencil"},{"point":[7,54],"label":"clock"},{"point":[6,514],"label":"car"},{"point":[6,368],"label":"fish"},{"point":[5,344],"label":"house"},{"point":[3,158],"label":"tree"},{"point":[16,328],"label":"bicycle"},{"point":[8,534],"label":"guitar"},{"point":[9,360],"label":"pencil"},{"point":[10,297],"label":"clock"},{"point":[8,348],"label":"car"},{"point":[9,530],"label":"fish"},{"point":[13,606],"label":"house"},{"point":[12,665],"label":"tree"},{"point":[19,1082],"label":"bicycle"},{"point":[15,976],"label":"guitar"},{"point":[8,327],"label":"pencil"},{"point":[23,832],"label":"clock"},{"point":[12,469],"label":"car"},{"point":[4,281],"label":"fish"},{"point":[20,762],"label":"house"},{"point":[4,291],"label":"tree"},{"point":[23,821],"label":"bicycle"},{"point":[12,501],"label":"guitar"},{"point":[9,352],"label":"pencil"},{"point":[3,132],"label":"clock"},{"point":[11,805],"label":"car"},{"point":[7,414],"label":"fish"},{"point":[8,778],"label":"house"},{"point":[12,711],"label":"tree"},{"point":[8,719],"label":"bicycle"},{"point":[6,758],"label":"guitar"},{"point":[7,416],"label":"pencil"},{"point":[27,1179],"label":"clock"},{"point":[6,482],"label":"car"},{"point":[7,211],"label":"fish"},{"point":[21,501],"label":"house"},{"point":[4,171],"label":"tree"},{"point":[22,439],"label":"bicycle"},{"point":[11,541],"label":"guitar"},{"point":[7,144],"label":"pencil"},{"point":[14,128],"label":"clock"},{"point":[7,370],"label":"car"},{"point":[5,505],"label":"fish"},{"point":[20,438],"label":"house"},{"point":[8,249],"label":"tree"},{"point":[8,310],"label":"bicycle"},{"point":[12,790],"label":"guitar"},{"point":[10,488],"label":"pencil"},{"point":[7,221],"label":"clock"},{"point":[30,2110],"label":"car"},{"point":[27,1247],"label":"fish"},{"point":[30,1412],"label":"house"},{"point":[17,1249],"label":"tree"},{"point":[21,2067],"label":"bicycle"},{"point":[29,1400],"label":"guitar"},{"point":[60,2165],"label":"pencil"},{"point":[23,4076],"label":"clock"},{"point":[11,776],"label":"car"},{"point":[15,828],"label":"fish"},{"point":[19,978],"label":"house"},{"point":[2,964],"label":"tree"},{"point":[25,874],"label":"bicycle"},{"point":[14,676],"label":"guitar"},{"point":[8,572],"label":"pencil"},{"point":[20,869],"label":"clock"},{"point":[6,450],"label":"car"},{"point":[2,286],"label":"fish"},{"point":[11,612],"label":"house"},{"point":[3,289],"label":"tree"},{"point":[9,479],"label":"bicycle"},{"point":[15,497],"label":"guitar"},{"point":[7,144],"label":"pencil"},{"point":[9,365],"label":"clock"}]}
+{
+  "featureNames": [
+    "Width",
+    "Height"
+  ],
+  "samples": [
+    {
+      "point": [
+        258,
+        104
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        241,
+        70
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        174,
+        166
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        163,
+        272
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        212,
+        140
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        228,
+        218
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        96,
+        268
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        237,
+        220
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        260,
+        114
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        206,
+        76
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        195,
+        177
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        234,
+        291
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        246,
+        145
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        241,
+        233
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        177,
+        222
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        204,
+        203
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        254,
+        134
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        159,
+        78
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        228,
+        186
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        320,
+        315
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        159,
+        139
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        92,
+        209
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        33,
+        239
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        126,
+        129
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        248,
+        145
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        237,
+        95
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        257,
+        259
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        250,
+        248
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        234,
+        175
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        305,
+        125
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        37,
+        134
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        352,
+        345
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        244,
+        175
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        185,
+        105
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        258,
+        269
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        308,
+        301
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        179,
+        120
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        117,
+        307
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        43,
+        317
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        344,
+        315
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        185,
+        78
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        221,
+        87
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        332,
+        269
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        307,
+        348
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        214,
+        146
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        148,
+        380
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        297,
+        26
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        271,
+        267
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        309,
+        150
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        319,
+        185
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        306,
+        328
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        295,
+        401
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        264,
+        224
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        319,
+        278
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        266,
+        310
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        229,
+        235
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        325,
+        151
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        180,
+        115
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        143,
+        257
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        174,
+        239
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        166,
+        130
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        153,
+        289
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        133,
+        279
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        205,
+        206
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        338,
+        206
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        158,
+        253
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        187,
+        258
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        243,
+        284
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        223,
+        94
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        163,
+        279
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        79,
+        260
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        142,
+        172
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        265,
+        96
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        93,
+        53
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        139,
+        140
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        148,
+        164
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        202,
+        138
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        105,
+        83
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        171,
+        44
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        116,
+        128
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        329,
+        217
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        247,
+        230
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        246,
+        276
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        273,
+        343
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        326,
+        240
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        282,
+        312
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        245,
+        284
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        182,
+        211
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        267,
+        120
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        269,
+        63
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        298,
+        292
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        257,
+        328
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        201,
+        122
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        368,
+        278
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        196,
+        195
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        220,
+        276
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        338,
+        150
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        294,
+        151
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        330,
+        233
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        257,
+        348
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        298,
+        260
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        240,
+        301
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        375,
+        358
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        292,
+        356
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        330,
+        110
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        243,
+        148
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        265,
+        174
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        284,
+        307
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        287,
+        185
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        113,
+        335
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        23,
+        229
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        148,
+        149
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        290,
+        112
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        195,
+        110
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        169,
+        196
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        224,
+        278
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        242,
+        129
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        312,
+        263
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        212,
+        164
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        222,
+        162
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        163,
+        73
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        158,
+        47
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        188,
+        195
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        234,
+        251
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        228,
+        179
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        83,
+        227
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        102,
+        113
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        78,
+        106
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        355,
+        156
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        394,
+        384
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        395,
+        235
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        347,
+        402
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        351,
+        258
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        343,
+        399
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        342,
+        323
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        153,
+        310
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        256,
+        81
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        249,
+        83
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        159,
+        262
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        321,
+        330
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        281,
+        167
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        231,
+        295
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        166,
+        186
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        325,
+        319
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        318,
+        161
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        347,
+        133
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        205,
+        300
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        312,
+        379
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        303,
+        232
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        326,
+        317
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        225,
+        229
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        225,
+        210
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        362,
+        203
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        212,
+        78
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        254,
+        327
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        336,
+        422
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        303,
+        218
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        155,
+        368
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        94,
+        376
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        299,
+        352
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        329,
+        200
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        288,
+        151
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        287,
+        245
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        263,
+        368
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        332,
+        229
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        318,
+        281
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        282,
+        260
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        190,
+        215
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        322,
+        124
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        316,
+        65
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        248,
+        333
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        349,
+        381
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        260,
+        160
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        229,
+        211
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        143,
+        209
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        195,
+        196
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        315,
+        146
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        298,
+        133
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        303,
+        295
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        230,
+        263
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        272,
+        172
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        130,
+        261
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        190,
+        203
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        220,
+        188
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        339,
+        146
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        263,
+        121
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        164,
+        248
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        180,
+        235
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        166,
+        125
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        162,
+        319
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        275,
+        193
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        323,
+        298
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        225,
+        91
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        245,
+        62
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        140,
+        187
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        175,
+        290
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        102,
+        101
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        136,
+        316
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        211,
+        160
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        127,
+        132
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        328,
+        162
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        220,
+        145
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        261,
+        290
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        205,
+        297
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        282,
+        179
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        250,
+        358
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        240,
+        280
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        301,
+        308
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        315,
+        90
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        354,
+        133
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        234,
+        203
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        320,
+        327
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        316,
+        148
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        334,
+        114
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        29,
+        282
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        316,
+        255
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        268,
+        231
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        276,
+        137
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        399,
+        405
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        242,
+        350
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        208,
+        130
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        245,
+        289
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        347,
+        327
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        328,
+        292
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        290,
+        158
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        307,
+        192
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        197,
+        193
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        260,
+        229
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        276,
+        166
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        208,
+        281
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        167,
+        225
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        218,
+        237
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        282,
+        125
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        240,
+        98
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        169,
+        203
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        242,
+        347
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        320,
+        151
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        205,
+        189
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        99,
+        102
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        208,
+        204
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        326,
+        191
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        183,
+        101
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        278,
+        317
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        223,
+        249
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        255,
+        240
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        326,
+        121
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        28,
+        237
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        194,
+        214
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        256,
+        114
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        210,
+        96
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        215,
+        297
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        237,
+        326
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        204,
+        143
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        305,
+        129
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        81,
+        249
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        168,
+        166
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        245,
+        175
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        247,
+        185
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        226,
+        182
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        234,
+        238
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        305,
+        204
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        127,
+        334
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        225,
+        307
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        263,
+        308
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        241,
+        110
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        162,
+        114
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        254,
+        278
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        314,
+        328
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        216,
+        171
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        178,
+        342
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        49,
+        265
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        215,
+        237
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        370,
+        131
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        339,
+        189
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        374,
+        271
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        320,
+        369
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        288,
+        203
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        374,
+        286
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        234,
+        227
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        207,
+        201
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        305,
+        170
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        257,
+        146
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        205,
+        220
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        283,
+        288
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        273,
+        142
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        264,
+        266
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        298,
+        314
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        201,
+        195
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        310,
+        191
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        331,
+        253
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        294,
+        237
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        373,
+        346
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        261,
+        241
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        294,
+        332
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        161,
+        239
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        236,
+        296
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        250,
+        148
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        306,
+        132
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        288,
+        330
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        258,
+        285
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        281,
+        176
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        334,
+        289
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        147,
+        107
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        226,
+        208
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        399,
+        372
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        300,
+        206
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        114,
+        226
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        181,
+        269
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        189,
+        110
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        95,
+        315
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        41,
+        294
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        234,
+        268
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        335,
+        194
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        338,
+        147
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        251,
+        297
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        267,
+        328
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        273,
+        265
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        284,
+        269
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        298,
+        220
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        207,
+        244
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        331,
+        152
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        215,
+        129
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        242,
+        284
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        225,
+        325
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        289,
+        216
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        362,
+        304
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        71,
+        328
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        254,
+        258
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        367,
+        201
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        298,
+        153
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        172,
+        243
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        277,
+        351
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        263,
+        251
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        336,
+        347
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        189,
+        172
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        173,
+        184
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        356,
+        219
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        266,
+        130
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        344,
+        307
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        116,
+        347
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        359,
+        221
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        306,
+        147
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        290,
+        306
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        319,
+        295
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        277,
+        161
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        218,
+        73
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        148,
+        174
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        256,
+        364
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        206,
+        122
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        270,
+        72
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        32,
+        210
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        205,
+        206
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        276,
+        119
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        71,
+        123
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        286,
+        234
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        353,
+        334
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        276,
+        184
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        98,
+        307
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        241,
+        237
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        125,
+        131
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        212,
+        149
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        263,
+        122
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        249,
+        248
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        359,
+        340
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        245,
+        158
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        328,
+        153
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        82,
+        289
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        156,
+        180
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        312,
+        164
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        285,
+        160
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        304,
+        197
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        322,
+        350
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        248,
+        222
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        194,
+        339
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        148,
+        307
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        159,
+        172
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        158,
+        130
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        215,
+        84
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        129,
+        159
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        140,
+        218
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        134,
+        126
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        167,
+        110
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        214,
+        151
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        179,
+        143
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        302,
+        167
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        228,
+        206
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        266,
+        268
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        298,
+        322
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        209,
+        177
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        329,
+        145
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        250,
+        265
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        205,
+        210
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        322,
+        136
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        226,
+        117
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        254,
+        175
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        213,
+        243
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        236,
+        185
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        244,
+        122
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        177,
+        190
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        164,
+        182
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        339,
+        219
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        275,
+        159
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        299,
+        255
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        215,
+        241
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        314,
+        167
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        240,
+        280
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        324,
+        265
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        212,
+        172
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        232,
+        150
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        233,
+        154
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        287,
+        239
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        180,
+        169
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        227,
+        177
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        171,
+        184
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        65,
+        161
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        133,
+        128
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        375,
+        180
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        271,
+        124
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        311,
+        211
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        320,
+        384
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        195,
+        157
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        149,
+        287
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        57,
+        246
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        201,
+        146
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        365,
+        170
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        337,
+        89
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        342,
+        279
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        274,
+        319
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        286,
+        180
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        154,
+        298
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        223,
+        263
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        196,
+        165
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        180,
+        70
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        316,
+        265
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        372,
+        330
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        330,
+        351
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        284,
+        270
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        300,
+        346
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        387,
+        382
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        329,
+        368
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        290,
+        143
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        194,
+        161
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        299,
+        143
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        302,
+        291
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        329,
+        188
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        271,
+        157
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        143,
+        215
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        121,
+        142
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        296,
+        141
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        307,
+        127
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        314,
+        242
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        293,
+        300
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        252,
+        149
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        113,
+        292
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        118,
+        252
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        216,
+        245
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        290,
+        111
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        242,
+        55
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        288,
+        221
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        231,
+        244
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        212,
+        133
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        284,
+        385
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        376,
+        341
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        249,
+        228
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        306,
+        150
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        285,
+        171
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        130,
+        258
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        165,
+        273
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        240,
+        163
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        311,
+        119
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        33,
+        185
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        226,
+        215
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        358,
+        129
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        141,
+        47
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        219,
+        161
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        199,
+        227
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        237,
+        153
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        178,
+        226
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        144,
+        142
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        168,
+        180
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        353,
+        177
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        377,
+        279
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        398,
+        335
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        229,
+        356
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        357,
+        218
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        334,
+        363
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        364,
+        299
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        301,
+        352
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        305,
+        132
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        221,
+        89
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        160,
+        220
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        189,
+        267
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        176,
+        152
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        256,
+        86
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        162,
+        233
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        151,
+        162
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        222,
+        117
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        249,
+        172
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        246,
+        223
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        307,
+        265
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        234,
+        168
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        310,
+        268
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        217,
+        208
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        190,
+        183
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        265,
+        73
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        222,
+        111
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        184,
+        235
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        400,
+        374
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        249,
+        162
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        354,
+        324
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        147,
+        249
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        176,
+        165
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        330,
+        224
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        213,
+        83
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        223,
+        212
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        260,
+        226
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        347,
+        226
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        333,
+        230
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        180,
+        140
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        192,
+        206
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        342,
+        186
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        265,
+        170
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        374,
+        357
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        368,
+        392
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        389,
+        323
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        307,
+        327
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        257,
+        331
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        268,
+        264
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        298,
+        134
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        214,
+        98
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        166,
+        270
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        284,
+        283
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        294,
+        200
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        132,
+        304
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        63,
+        255
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        304,
+        304
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        326,
+        157
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        235,
+        117
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        231,
+        217
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        334,
+        343
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        345,
+        189
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        368,
+        173
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        297,
+        167
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        220,
+        224
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        284,
+        115
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        214,
+        65
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        254,
+        313
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        221,
+        344
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        207,
+        144
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        364,
+        335
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        226,
+        256
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        247,
+        282
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        308,
+        133
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        275,
+        112
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        252,
+        299
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        206,
+        347
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        218,
+        156
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        158,
+        268
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        42,
+        131
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        132,
+        162
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        224,
+        203
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        284,
+        320
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        349,
+        312
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        401,
+        405
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        360,
+        259
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        365,
+        394
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        117,
+        365
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        171,
+        215
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        381,
+        176
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        303,
+        100
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        325,
+        382
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        312,
+        374
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        299,
+        169
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        265,
+        314
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        144,
+        135
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        239,
+        206
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        290,
+        163
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        248,
+        210
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        239,
+        224
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        204,
+        270
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        229,
+        216
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        260,
+        248
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        134,
+        248
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        161,
+        159
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        321,
+        149
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        257,
+        165
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        311,
+        230
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        390,
+        360
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        263,
+        173
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        187,
+        328
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        96,
+        187
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        244,
+        252
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        258,
+        116
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        270,
+        161
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        256,
+        283
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        338,
+        365
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        302,
+        237
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        147,
+        376
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        330,
+        59
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        186,
+        179
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        241,
+        132
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        237,
+        133
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        185,
+        185
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        188,
+        265
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        258,
+        168
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        300,
+        219
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        131,
+        102
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        124,
+        107
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        199,
+        76
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        118,
+        32
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        182,
+        141
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        236,
+        239
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        251,
+        113
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        272,
+        133
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        218,
+        59
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        126,
+        127
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        238,
+        127
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        236,
+        72
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        186,
+        151
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        329,
+        321
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        194,
+        143
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        120,
+        215
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        190,
+        49
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        241,
+        258
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        246,
+        168
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        194,
+        131
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        278,
+        261
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        250,
+        333
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        303,
+        181
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        193,
+        332
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        238,
+        242
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        210,
+        220
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        208,
+        97
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        203,
+        69
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        223,
+        312
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        171,
+        234
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        248,
+        202
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        251,
+        122
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        214,
+        241
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        207,
+        163
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        305,
+        193
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        293,
+        171
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        204,
+        291
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        329,
+        346
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        222,
+        212
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        266,
+        145
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        249,
+        299
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        209,
+        83
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        285,
+        219
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        186,
+        100
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        215,
+        215
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        198,
+        272
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        294,
+        185
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        141,
+        277
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        250,
+        140
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        165,
+        162
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        268,
+        250
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        195,
+        240
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        179,
+        273
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        262,
+        304
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        167,
+        288
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        210,
+        265
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        146,
+        321
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        187,
+        209
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        342,
+        164
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        198,
+        75
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        190,
+        224
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        153,
+        296
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        296,
+        174
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        172,
+        189
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        98,
+        219
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        93,
+        144
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        334,
+        210
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        240,
+        80
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        218,
+        245
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        273,
+        310
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        288,
+        228
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        353,
+        325
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        152,
+        222
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        166,
+        189
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        228,
+        116
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        198,
+        88
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        284,
+        131
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        217,
+        233
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        210,
+        120
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        344,
+        173
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        49,
+        234
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        179,
+        158
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        260,
+        102
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        204,
+        74
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        267,
+        208
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        135,
+        270
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        156,
+        96
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        291,
+        121
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        242,
+        22
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        249,
+        202
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        352,
+        210
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        337,
+        173
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        266,
+        303
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        316,
+        328
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        364,
+        228
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        353,
+        156
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        286,
+        208
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        270,
+        257
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        298,
+        342
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        259,
+        127
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        205,
+        258
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        231,
+        296
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        199,
+        139
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        252,
+        244
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        42,
+        191
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        165,
+        198
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        256,
+        242
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        258,
+        314
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        266,
+        240
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        183,
+        233
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        193,
+        142
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        253,
+        227
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        66,
+        247
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        154,
+        197
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        190,
+        119
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        152,
+        115
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        228,
+        178
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        95,
+        294
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        168,
+        197
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        157,
+        277
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        165,
+        278
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        142,
+        169
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        286,
+        128
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        247,
+        134
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        287,
+        255
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        288,
+        284
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        286,
+        229
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        307,
+        190
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        68,
+        247
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        293,
+        216
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        341,
+        145
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        270,
+        267
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        235,
+        307
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        284,
+        362
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        323,
+        216
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        302,
+        287
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        255,
+        273
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        267,
+        252
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        235,
+        81
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        221,
+        98
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        226,
+        184
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        354,
+        337
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        317,
+        158
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        354,
+        117
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        162,
+        356
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        97,
+        107
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        305,
+        141
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        247,
+        194
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        257,
+        257
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        282,
+        335
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        258,
+        158
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        303,
+        248
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        189,
+        285
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        109,
+        109
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        260,
+        125
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        323,
+        211
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        211,
+        250
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        345,
+        377
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        233,
+        135
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        254,
+        271
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        195,
+        204
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        181,
+        326
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        285,
+        74
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        203,
+        80
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        145,
+        233
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        175,
+        354
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        273,
+        156
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        148,
+        310
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        300,
+        271
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        270,
+        170
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        374,
+        139
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        318,
+        204
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        397,
+        364
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        397,
+        299
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        363,
+        210
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        345,
+        334
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        221,
+        305
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        265,
+        266
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        183,
+        107
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        227,
+        134
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        291,
+        346
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        274,
+        317
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        290,
+        180
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        155,
+        219
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        162,
+        231
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        148,
+        179
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        275,
+        90
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        266,
+        83
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        332,
+        279
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        271,
+        298
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        236,
+        89
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        293,
+        57
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        24,
+        211
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        195,
+        193
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        208,
+        206
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        227,
+        258
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        222,
+        278
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        145,
+        247
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        142,
+        276
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        275,
+        318
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        254,
+        253
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        234,
+        234
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        350,
+        218
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        196,
+        144
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        222,
+        241
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        313,
+        317
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        288,
+        249
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        191,
+        260
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        102,
+        173
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        289,
+        315
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        287,
+        171
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        293,
+        154
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        291,
+        208
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        330,
+        328
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        285,
+        239
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        401,
+        342
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        324,
+        288
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        258,
+        269
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        232,
+        139
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        231,
+        146
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        255,
+        251
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        339,
+        370
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        330,
+        230
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        168,
+        381
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        31,
+        344
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        242,
+        284
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        298,
+        124
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        318,
+        146
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        319,
+        292
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        305,
+        374
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        292,
+        166
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        378,
+        342
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        121,
+        308
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        268,
+        304
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        171,
+        98
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        145,
+        97
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        156,
+        181
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        198,
+        217
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        101,
+        76
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        272,
+        229
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        98,
+        64
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        195,
+        166
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        199,
+        71
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        244,
+        124
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        190,
+        192
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        192,
+        253
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        250,
+        173
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        165,
+        362
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        50,
+        245
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        237,
+        226
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        144,
+        91
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        150,
+        96
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        135,
+        127
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        107,
+        132
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        136,
+        135
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        256,
+        79
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        41,
+        164
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        130,
+        120
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        330,
+        170
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        236,
+        115
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        359,
+        291
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        296,
+        284
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        287,
+        174
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        360,
+        217
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        169,
+        228
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        194,
+        318
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        260,
+        136
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        214,
+        132
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        385,
+        355
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        209,
+        278
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        352,
+        288
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        234,
+        326
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        49,
+        220
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        178,
+        223
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        346,
+        300
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        192,
+        240
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        181,
+        253
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        263,
+        338
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        299,
+        243
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        293,
+        333
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        224,
+        332
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        270,
+        277
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        293,
+        187
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        213,
+        167
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        320,
+        319
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        276,
+        338
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        164,
+        78
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        290,
+        198
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        18,
+        203
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        139,
+        187
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        344,
+        159
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        314,
+        119
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        187,
+        346
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        183,
+        309
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        178,
+        103
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        320,
+        116
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        273,
+        108
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        187,
+        177
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        166,
+        110
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        127,
+        59
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        113,
+        169
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        200,
+        213
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        245,
+        173
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        106,
+        267
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        59,
+        230
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        292,
+        297
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        359,
+        203
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        253,
+        92
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        150,
+        239
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        389,
+        290
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        318,
+        217
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        356,
+        131
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        238,
+        154
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        200,
+        213
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        197,
+        67
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        146,
+        60
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        179,
+        169
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        245,
+        234
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        183,
+        99
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        86,
+        250
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        94,
+        76
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        142,
+        145
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        298,
+        118
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        267,
+        126
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        190,
+        223
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        170,
+        200
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        183,
+        93
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        160,
+        74
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        18,
+        155
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        192,
+        171
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        354,
+        206
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        276,
+        218
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        228,
+        164
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        292,
+        332
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        319,
+        195
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        225,
+        274
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        239,
+        278
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        264,
+        290
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        371,
+        222
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        289,
+        178
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        277,
+        330
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        291,
+        325
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        277,
+        244
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        316,
+        287
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        227,
+        299
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        239,
+        243
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        334,
+        219
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        289,
+        210
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        301,
+        273
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        233,
+        395
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        314,
+        267
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        341,
+        277
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        280,
+        300
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        302,
+        292
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        302,
+        140
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        263,
+        119
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        172,
+        213
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        387,
+        311
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        247,
+        135
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        236,
+        260
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        237,
+        267
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        228,
+        243
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        318,
+        159
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        268,
+        135
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        286,
+        202
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        294,
+        338
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        259,
+        184
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        237,
+        344
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        208,
+        275
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        174,
+        167
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        120,
+        120
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        91,
+        43
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        126,
+        160
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        344,
+        264
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        142,
+        125
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        95,
+        294
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        34,
+        160
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        162,
+        184
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        205,
+        158
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        182,
+        96
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        163,
+        235
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        263,
+        340
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        228,
+        179
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        131,
+        326
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        102,
+        199
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        242,
+        255
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        227,
+        114
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        179,
+        115
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        184,
+        158
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        203,
+        247
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        169,
+        127
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        243,
+        302
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        198,
+        193
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        166,
+        159
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        244,
+        131
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        159,
+        83
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        175,
+        256
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        215,
+        223
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        165,
+        97
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        89,
+        236
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        18,
+        104
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        144,
+        163
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        319,
+        173
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        331,
+        118
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        330,
+        230
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        284,
+        338
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        392,
+        268
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        375,
+        363
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        166,
+        211
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        188,
+        195
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        349,
+        189
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        286,
+        210
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        358,
+        352
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        305,
+        383
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        315,
+        210
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        288,
+        308
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        229,
+        337
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        248,
+        252
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        291,
+        120
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        338,
+        166
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        186,
+        289
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        272,
+        345
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        316,
+        179
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        357,
+        128
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        189,
+        232
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        318,
+        293
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        317,
+        122
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        126,
+        182
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        119,
+        189
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        163,
+        250
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        171,
+        104
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        271,
+        102
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        30,
+        160
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        124,
+        117
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        360,
+        113
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        303,
+        152
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        237,
+        232
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        341,
+        374
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        275,
+        149
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        329,
+        353
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        227,
+        226
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        178,
+        176
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        342,
+        133
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        263,
+        120
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        285,
+        290
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        324,
+        315
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        324,
+        180
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        341,
+        218
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        301,
+        139
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        199,
+        186
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        253,
+        109
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        284,
+        83
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        273,
+        241
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        95,
+        151
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        212,
+        94
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        302,
+        264
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        167,
+        204
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        252,
+        232
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        256,
+        181
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        263,
+        125
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        225,
+        209
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        270,
+        298
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        252,
+        184
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        284,
+        228
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        273,
+        340
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        230,
+        256
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        342,
+        182
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        206,
+        144
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        165,
+        190
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        68,
+        348
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        174,
+        110
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        183,
+        366
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        64,
+        323
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        222,
+        227
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        327,
+        164
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        298,
+        223
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        248,
+        247
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        209,
+        250
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        282,
+        150
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        278,
+        187
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        285,
+        181
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        197,
+        165
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        393,
+        216
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        225,
+        84
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        326,
+        378
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        319,
+        386
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        285,
+        259
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        330,
+        107
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        166,
+        35
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        230,
+        204
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        172,
+        85
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        237,
+        113
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        167,
+        176
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        273,
+        288
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        200,
+        130
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        236,
+        255
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        112,
+        209
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        171,
+        178
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        377,
+        260
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        256,
+        112
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        239,
+        288
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        243,
+        380
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        306,
+        242
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        152,
+        318
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        268,
+        274
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        263,
+        261
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        319,
+        128
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        195,
+        151
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        245,
+        218
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        292,
+        294
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        312,
+        159
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        143,
+        285
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        162,
+        243
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        234,
+        206
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        281,
+        107
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        241,
+        117
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        296,
+        136
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        254,
+        333
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        309,
+        196
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        352,
+        157
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        218,
+        203
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        228,
+        221
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        228,
+        140
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        201,
+        186
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        287,
+        235
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        182,
+        298
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        198,
+        170
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        241,
+        118
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        255,
+        61
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        232,
+        179
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        333,
+        161
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        327,
+        115
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        228,
+        247
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        189,
+        283
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        281,
+        186
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        324,
+        267
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        276,
+        194
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        236,
+        236
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        231,
+        103
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        187,
+        105
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        189,
+        228
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        240,
+        302
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        157,
+        129
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        310,
+        241
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        181,
+        225
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        250,
+        246
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        239,
+        100
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        285,
+        147
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        298,
+        274
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        390,
+        355
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        348,
+        176
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        386,
+        140
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        98,
+        258
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        296,
+        213
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        269,
+        174
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        188,
+        66
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        252,
+        100
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        171,
+        227
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        257,
+        152
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        305,
+        192
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        111,
+        166
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        192,
+        170
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        324,
+        176
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        238,
+        121
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        273,
+        319
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        191,
+        283
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        244,
+        167
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        276,
+        259
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        228,
+        100
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        335,
+        307
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        273,
+        180
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        209,
+        117
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        293,
+        366
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        222,
+        301
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        301,
+        174
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        299,
+        309
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        253,
+        280
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        224,
+        221
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        297,
+        129
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        270,
+        131
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        320,
+        306
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        256,
+        295
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        278,
+        151
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        285,
+        259
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        56,
+        310
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        248,
+        274
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        315,
+        221
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        310,
+        159
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        251,
+        261
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        337,
+        341
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        192,
+        195
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        304,
+        160
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        97,
+        306
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        376,
+        393
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        243,
+        95
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        256,
+        154
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        198,
+        222
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        317,
+        248
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        226,
+        176
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        144,
+        313
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        330,
+        312
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        235,
+        269
+      ],
+      "label": "clock"
+    },
+    {
+      "point": [
+        259,
+        131
+      ],
+      "label": "car"
+    },
+    {
+      "point": [
+        171,
+        142
+      ],
+      "label": "fish"
+    },
+    {
+      "point": [
+        142,
+        214
+      ],
+      "label": "house"
+    },
+    {
+      "point": [
+        212,
+        367
+      ],
+      "label": "tree"
+    },
+    {
+      "point": [
+        286,
+        178
+      ],
+      "label": "bicycle"
+    },
+    {
+      "point": [
+        110,
+        345
+      ],
+      "label": "guitar"
+    },
+    {
+      "point": [
+        55,
+        284
+      ],
+      "label": "pencil"
+    },
+    {
+      "point": [
+        131,
+        168
+      ],
+      "label": "clock"
+    }
+  ]
+}
