@@ -1,5 +1,5 @@
 # ML-from-scratch2
-The project aims relearn the fundemental knowledge on machine learning and to not rely all to heavily on libraries.
+The project aims to learn the fundemental knowledge on machine learning and to not rely too heavily on libraries.
 The project contains multiple parts:
   designing a Web application
   Data creation using User input
