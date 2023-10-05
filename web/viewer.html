@@ -7,7 +7,9 @@
 	</head>
 	<body>
 		<h1>Data viewer</h1>
-		<div id="inputContainer"></div>
+		<div id="inputContainer">
+			<div id="predictedLabelContainer"></div>
+		</div>
 		<div id="chartContainer"></div>
 		<div id="controlPanel">
 			<button onClick="toggleInput()">
@@ -31,7 +33,6 @@
 		<script>
 			const {samples,featureNames}=features;
 			const groups=utils.groupBy(samples,"student_id");
-			console.log(groups)
 			for(let student_id in groups){
 				const samples=groups[student_id];
 				const studentName=samples[0].student_name;
@@ -59,8 +60,16 @@
 			function onDrawingUpdate(paths){
 				const functions=featurefunctions.inUse.map(f=>f.function)
     			const point=functions.map(f=>f(paths));
-				
-				chart.showDynamicPoint(point)
+				const label=classify(point);
+				predictedLabelContainer.innerHTML="Is it a "+label+"?";
+				chart.showDynamicPoint(point,label)
+			}
+
+			function classify(point){
+				const samplePoints=samples.map(s=>s.point);
+				const index=utils.getNearest(point,samplePoints);
+				const nearestSample=samples[index];
+				return nearestSample.label;
 			}
 		</script>
 	</body>
