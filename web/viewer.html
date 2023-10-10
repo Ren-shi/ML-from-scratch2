@@ -18,6 +18,7 @@
 		</div>
 		<div id="container"></div>
 		<script src="../common/js_objects/features.js"></script>
+		<script src="../common/js_objects/minMax.js"></script>
 
 		<script src="../common/constants.js"></script>
 		<script src="../common/utils.js"></script>
@@ -60,16 +61,17 @@
 			function onDrawingUpdate(paths){
 				const functions=featurefunctions.inUse.map(f=>f.function)
     			const point=functions.map(f=>f(paths));
-				const label=classify(point);
+				utils.normalizePoints([point],minMax);
+				const {label,nearestSample}=classify(point);
 				predictedLabelContainer.innerHTML="Is it a "+label+"?";
-				chart.showDynamicPoint(point,label)
+				chart.showDynamicPoint(point,label,nearestSample)
 			}
 
 			function classify(point){
 				const samplePoints=samples.map(s=>s.point);
 				const index=utils.getNearest(point,samplePoints);
 				const nearestSample=samples[index];
-				return nearestSample.label;
+				return {label:nearestSample.label, nearestSample}
 			}
 		</script>
 	</body>
